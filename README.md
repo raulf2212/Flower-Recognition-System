@@ -21,14 +21,14 @@ The project uses Transfer Learning for the model training. It uses Google's high
 # Execution & Requirements
 
 - Python 3.12
-- install dependencies in requirements.txt
+- Install dependencies in requirements.txt
 - Ensure the dataset.zip is in the main directory
 - Run train_model.py to extract the dataset zip & train a new model, if a dataset directory and the model file already exist, skip this step.
-- Run app.py to launch the interface for the application.
+- Run app.py to launch the application.
 
 # References
 
-### Project Concept & Baseline Workflow 
+### Project Concept
 Source: GeeksforGeeks  
 Article: Flower Recognition Using Convolutional Neural Network  
 URL: https://www.geeksforgeeks.org/deep-learning/flower-recognition-using-convolutional-neural-network/
