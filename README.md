@@ -1,5 +1,5 @@
 # Flower-Recognition-System
-Deep learning desktop application that accurately predicts the species of a flower in a given image. It utilizes Transfer Learning with Google's MobileNetV2  for the image processing and feature recognition, and a Python GUI library for the interface. The user inputs an image of a flower from the 102 flower categories listed below and the application will output the top 5 predictions for the flower. The concept idea was inspired by GeeksforGeek's article on a Flower Recognition system using CNNs, page listed below.
+Deep learning desktop application that accurately predicts the species of a flower in a given image. It utilizes Transfer Learning with Google's MobileNetV2  for the image processing and feature recognition, and a Python GUI library for the interface. The user inputs an image of a flower from the 102 flower categories listed below and the application will output the top 5 predictions for that flower. The concept idea was inspired by GeeksforGeek's article on a Flower Recognition system using CNNs, page listed below.
 
 <img width="637" height="808" alt="image" src="https://github.com/user-attachments/assets/80bf4099-e38d-4465-83f0-c09de92d92f7" />
 
