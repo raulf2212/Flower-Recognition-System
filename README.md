@@ -22,8 +22,9 @@ The project uses Transfer Learning for the model training. It uses Google's high
 
 - Python 3.12
 - Install dependencies in requirements.txt
-- Ensure the dataset.zip is in the main directory
-- Run train_model.py to extract the dataset zip & train a new model, if a dataset directory and the model file already exist, skip this step.
+- Download the dataset and rename the zip file to "dataset.zip" and insert it into the main directory.
+- Run load_dataset.py to extract the dataset zip into a dataset directory with the necessary files.
+- Run train_model.py to train a new model, if the model file & the indices json file already exist, skip this step.
 - Run app.py to launch the application.
 
 # References
